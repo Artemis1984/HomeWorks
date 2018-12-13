@@ -60,4 +60,5 @@ public class Cat implements Animal {
     public String getName() {
         return name;
     }
+
 }
